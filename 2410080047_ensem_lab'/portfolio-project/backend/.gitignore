@@ -1,0 +1,16 @@
+# Backend .gitignore
+target/
+*.jar
+*.war
+*.ear
+*.class
+*.classpath
+*.project
+*.settings
+.eclipse/
+.idea/
+*.iml
+.DS_Store
+.env
+*.log
+node_modules/
